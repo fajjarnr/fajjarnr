@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?fajjarnr=anuraghazra&show_icons=true&theme=radical)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fajjarnr)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **fajjarnr/fajjarnr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
