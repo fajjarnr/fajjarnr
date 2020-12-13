@@ -1,4 +1,4 @@
-### Hi there 👋, Fajar Nur Rohman
+### Hi there 👋, I'm Fajar Nur Rohman
 #### Frontend Developer
 I'm Fajar Nur Rohman from Indonesia. I really enjoy learning language and framework like React and React Native. I also enjoy wireframing, ui, ux and design in general
 
