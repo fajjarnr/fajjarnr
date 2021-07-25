@@ -3,6 +3,7 @@
 I'm Fajar Nur Rohman from Indonesia. I really enjoy learning language and framework like React and React Native. I also enjoy wireframing, ui, ux and design in general
 
 Skills: REACT/ REACT NATIVE / JS / HTML / CSS
+<br>
 ![Kotlin](https://img.shields.io/badge/-Kotlin-181717?style=for-the-badge&logo=Kotlin&logoColor=white)
 ![Javascript](https://img.shields.io/badge/-Javascript-181717?style=for-the-badge&logo=Javascript)
 ![Laravel](https://img.shields.io/badge/-Laravel-181717?style=for-the-badge&logo=Laravel)
