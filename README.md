@@ -24,6 +24,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Languages and Tools</b> <br>
 
 ![Kotlin](https://img.shields.io/badge/-Kotlin-181717?style=for-the-badge&logo=Kotlin&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin)
 ![Javascript](https://img.shields.io/badge/-Javascript-181717?style=for-the-badge&logo=Javascript)
 ![Laravel](https://img.shields.io/badge/-Laravel-181717?style=for-the-badge&logo=Laravel)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
