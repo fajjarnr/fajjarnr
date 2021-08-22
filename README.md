@@ -26,6 +26,7 @@
 ![Javascript](https://img.shields.io/badge/-Javascript-000?&logo=Javascript)
 ![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=Laravel)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
+![React Native](https://img.shields.io/badge/-ReactNative-000?&logo=ReactNative)
 ![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux)
 ![Node](https://img.shields.io/badge/-Node-000?&logo=Node.js)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin)
