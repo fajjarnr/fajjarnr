@@ -35,8 +35,6 @@
 ![SASS](https://img.shields.io/badge/-SASS-000?&logo=SASS)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/fajarnurrohman/)
-
 <br />
 <a href="#" target="_blank">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fajjarnr&theme=buefy&show_icons=true" />
