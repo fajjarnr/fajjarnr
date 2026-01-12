@@ -127,6 +127,14 @@ I am a **DevOps Engineer** and **Red Hat Certified OpenShift Architect** with ex
   </a>
 </div>
 
+<br/>
+
+<div align="center">
+  <a href="https://github.com/Jurredr/github-widgetbox">
+    <img src="https://github-widgetbox.vercel.app/api/profile?username=fajjarnr&data=followers,repositories,stars,commits&theme=nautilus" alt="GitHub WidgetBox" />
+  </a>
+</div>
+
 <hr/>
 
 <div align="center">
