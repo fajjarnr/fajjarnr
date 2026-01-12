@@ -1,26 +1,26 @@
-<!-- Header -->
+<!-- Header Wave Red Hat Color -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0091E6&height=280&section=header&text=Hello,%20I'm%20Fajar!%20🚀&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35" alt="Header" />
-  
-  <br/>
-  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=EE0000&height=280&section=header&text=Hello,%20I'm%20Fajar!&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" alt="Header" />
+</div>
+<!-- Typing Text Effect -->
+<div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=EE0000&center=true&vCenter=true&width=500&lines=DevOps+Engineer;Red+Hat+Certified+Architect;OpenShift+Specialist;Cloud+Infrastructure+Expert" alt="Typing SVG" />
   </a>
 </div>
-<!-- Socials -->
+<!-- Social Badges -->
 <div align="center">
   <a href="https://www.linkedin.com/in/fajarnurrohman" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/fajjarnr" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="mailto:fajjarnr@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.fajar.tech" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-20232A?style=for-the-badge&logo=firefox&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/Portfolio-20232A?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
   </a>
 </div>
 <hr/>
@@ -35,9 +35,7 @@ With extensive experience in both on-premises and cloud environments, I speciali
 <hr/>
 <div align="center">
   <h3>🎖️ Certifications</h3>
-</div>
-<div align="center">
-  <img src="https://img.shields.io/badge/Red_Hat-Certified_Architect-EE0000?style=for-the-badge&logo=redhat&logoColor=white" />
+  <img src="https://img.shields.io/badge/Red_Hat-Certified_Architect-EE0000?style=for-the-badge&logo=redhat&logoColor=white" alt="RHCA Badge" />
 </div>
 <br/>
 | Certification | Authority |
@@ -60,10 +58,15 @@ With extensive experience in both on-premises and cloud environments, I speciali
 <div align="center">
   <h3>📊 GitHub Stats</h3>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=fajjarnr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fajjarnr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" alt="Top Languages" height="180"/>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=fajjarnr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="180"/>
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fajjarnr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" alt="Top Languages" height="180"/>
+  </a>
 </div>
 <br/>
+<!-- Footer Wave Red Hat Color -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0091E6&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=EE0000&height=100&section=footer" width="100%" alt="Footer" />
 </div>
